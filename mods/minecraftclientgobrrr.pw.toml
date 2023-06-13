@@ -1,0 +1,13 @@
+name = "Minecraft Client go brrr"
+filename = "MinecraftClientGobrrr-1.1-MC1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nFCedC7H/versions/DIcxw3Sm/MinecraftClientGobrrr-1.1-MC1.20.jar"
+hash-format = "sha1"
+hash = "8f24361eb0aee06f8195c9988fcbf91aeec1c26c"
+
+[update]
+[update.modrinth]
+mod-id = "nFCedC7H"
+version = "DIcxw3Sm"
