@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "packwiz.fish"
+hash = "cfda2ff32a84a01f08e5dfc5edb8aa40fe88f4c15ce4d47fd73e4e7baafb4466"

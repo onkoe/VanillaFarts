@@ -1,0 +1,13 @@
+name = "Vanilla Farts"
+author = "onkoe"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f48041d6954bdb562d1a78003c32bb179976b8feececcf78fc8b21c57febff0b"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20"
