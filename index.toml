@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/celesta.pw.toml"
-hash = "d83d4417a97a24a95b483396d83c57d6c16c6f8cfec9f1836aaafd6653fb8906"
+hash = "63c6422594dd64b72c748a37291d1197d058647c267f5596ed5b820c4c7fdef6"
 metafile = true
 
 [[files]]
