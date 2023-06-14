@@ -293,11 +293,6 @@ hash = "3a284a5d5542dc68599027757a575b8a1dd940dcfb9020b4135c7fcba869110b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithless.pw.toml"
-hash = "379be7e35ef32cfc07d3e130a261ad3dd7d9ac0202734d31fbb7107708d2cea3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/reimagined.pw.toml"
 hash = "6ce7be6e214132858462fcefea8c268198d827384e12633065a812cee54db53a"
 metafile = true
@@ -315,11 +310,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/lux-v1.pw.toml"
 hash = "36f8113069c89f41c2eff3cb684b7f01312498653bacb4d31a2813f0af9193a6"
-metafile = true
-
-[[files]]
-file = "shaderpacks/nostalgia-shader.pw.toml"
-hash = "5617b60662b2e1c8333e47c4f43a4185fe633c05e629c1ec06d1d539b22e654c"
 metafile = true
 
 [[files]]
