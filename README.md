@@ -2,6 +2,8 @@
 
 A simple vanilla-improvement pack I'm building for my server!
 
+![banner](vanilla-farts-banner.png)
+
 ## Contributing
 
 TODO
