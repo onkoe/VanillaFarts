@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ASSETS.md"
+hash = "8b62edcb8136de00adb9eb870a32dc186619e25272285a25860a91c9fe874c05"
+
+[[files]]
 file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "afc03cb04a136edc389084133e739735666eb10249dd0171f44dc856220630a4"
+
+[[files]]
+file = "WISHLIST.md"
+hash = "fb40a460e2b8c2c8ad214d13d559e7f1d89cf1353fdeaab318002c3beca9206a"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -125,6 +133,26 @@ hash = "af49ad1f36fb92873b79e504092147d7073e433685ff2e3353003363ffd04e7c"
 metafile = true
 
 [[files]]
+file = "mods/kosmolot-unofficial-itemscroller-fabric-1.20-0.19.2+ksm.3.jar"
+hash = "6aa821a7abeef110f63cf9fb79b0243a582ce272f85197bec65170b2c8b95ea9"
+
+[[files]]
+file = "mods/kosmolot-unofficial-litematica-fabric-1.20-0.14.3+ksm.3.jar"
+hash = "01a4969f824bf013d7bd9bd05e4b4b7994ba47e5e024e9b3f1f0af9579eae7bb"
+
+[[files]]
+file = "mods/kosmolot-unofficial-malilib-fabric-1.20-0.15.4+ksm.3.jar"
+hash = "3de87cec69e1f1f4d7ff03f12035cd23ce336e4e1ff16b83cfe87c14f25ad689"
+
+[[files]]
+file = "mods/kosmolot-unofficial-minihud-fabric-1.20-0.26.2+ksm.3.jar"
+hash = "09fbf3fca30cf54362832141212b4305e14709ca376c93d6fbbef60fd6da5fce"
+
+[[files]]
+file = "mods/kosmolot-unofficial-tweakeroo-fabric-1.20-0.16.0+ksm.3.jar"
+hash = "2592c8c5f8814f669fa902594780de6d5fc7de0409d40c74d85404ccc71c89b9"
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -165,6 +193,11 @@ hash = "132b08d3d86ac5e4866ece978f0d4f2a194455a04131b0ed3ea1eca081a789dc"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
@@ -177,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "07ab85673fd642f1270bd8ce16547104fd4c34c0f05d245d2735fb4ce5737edc"
 metafile = true
 
 [[files]]
