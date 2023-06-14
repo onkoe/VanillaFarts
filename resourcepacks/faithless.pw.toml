@@ -1,0 +1,13 @@
+name = "Faithless"
+filename = "Faithless1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CwaddKq6/versions/R47C6nN1/Faithless1.20.zip"
+hash-format = "sha1"
+hash = "8e3789e1e9f244d3494c87cfc4b9e4033673c33f"
+
+[update]
+[update.modrinth]
+mod-id = "CwaddKq6"
+version = "R47C6nN1"

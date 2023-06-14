@@ -4,6 +4,17 @@ While this pack mostly intends to include mods and good defaults, it also contai
 
 If you'd like to add one to the list, you can open up an issue or send a PR. Just make sure that reuse is allowed by the author! :)
 
+By the way, you can add older versions of resource packs or shaders by using these commands:
+
+```bash
+$ alias pa "packwiz modrinth add "
+# this will save you some work
+
+$ pa --project-id first --version-id second
+# where the values are from https://cdn.modrinth.com/data/first/versions/second/file.zip
+# and this link comes from right clicking a download
+```
+
 ## Shaders
 
 Make the game look better than real life... somehow. like what

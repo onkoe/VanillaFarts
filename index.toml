@@ -85,6 +85,11 @@ hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "08b843dfc24cc97afeba5b3a60a1263c8aa4fc786398a1972cc69741f0253e22"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
@@ -247,4 +252,54 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "c27afb736d1302a44db5ab74b311259a5d7cbb100b88095eb8ae3042e5eecf7e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/digs-simple-pack.pw.toml"
+hash = "3a284a5d5542dc68599027757a575b8a1dd940dcfb9020b4135c7fcba869110b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithless.pw.toml"
+hash = "379be7e35ef32cfc07d3e130a261ad3dd7d9ac0202734d31fbb7107708d2cea3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "6ce7be6e214132858462fcefea8c268198d827384e12633065a812cee54db53a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stormilla.pw.toml"
+hash = "4a0b09249629c3e705e0b174b39aff0417abd4af9b19c51098e8be1ee641b4ce"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "f3a120184ceab49f87e3c2a9b8091578acb2202d444b7cc36837ab9cda79b689"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lux-v1.pw.toml"
+hash = "36f8113069c89f41c2eff3cb684b7f01312498653bacb4d31a2813f0af9193a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "5617b60662b2e1c8333e47c4f43a4185fe633c05e629c1ec06d1d539b22e654c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pixel-perfect.pw.toml"
+hash = "ca8565dc4e4ec021668bb6204da6addec59f91c7798fd9fa70a1f7e9cce5dca2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
 metafile = true

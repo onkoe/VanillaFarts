@@ -1,0 +1,13 @@
+name = "Reimagined"
+filename = "§aReimagined§8-[1.40].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ta5dy0aA/versions/CCqyfnju/%C2%A7aReimagined%C2%A78-%5B1.40%5D.zip"
+hash-format = "sha1"
+hash = "a7c16d393a864b802fecdd75950828a13221e629"
+
+[update]
+[update.modrinth]
+mod-id = "ta5dy0aA"
+version = "CCqyfnju"

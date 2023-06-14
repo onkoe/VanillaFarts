@@ -1,0 +1,13 @@
+name = "Digs' Simple Pack"
+filename = "DigsSimplePack-1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eOR9OYkM/versions/KqzhWmea/DigsSimplePack-1.20.zip"
+hash-format = "sha1"
+hash = "e2b4fbe9f86d65494ed0f4697157a643028724db"
+
+[update]
+[update.modrinth]
+mod-id = "eOR9OYkM"
+version = "KqzhWmea"
