@@ -283,8 +283,18 @@ hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-fire.pw.toml"
+hash = "4d48f98802876b12a4f87cac1dea1ce7b1714b4bf236d0e8efb44157d7760655"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
 hash = "c27afb736d1302a44db5ab74b311259a5d7cbb100b88095eb8ae3042e5eecf7e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/celesta.pw.toml"
+hash = "d83d4417a97a24a95b483396d83c57d6c16c6f8cfec9f1836aaafd6653fb8906"
 metafile = true
 
 [[files]]
@@ -300,6 +310,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/stormilla.pw.toml"
 hash = "4a0b09249629c3e705e0b174b39aff0417abd4af9b19c51098e8be1ee641b4ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unobtrusive-grass.pw.toml"
+hash = "2ae2834a54e542ffbf573aae8145d653bd6f0c1f07952baec2d524752e80cdcd"
 metafile = true
 
 [[files]]

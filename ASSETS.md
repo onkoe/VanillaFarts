@@ -32,3 +32,6 @@ Change the look of textures in the game!
 - [Better Vanilla Building](https://modrinth.com/resourcepack/bettervanillabuilding/gallery) - V2.89
 - [Stormilla](https://modrinth.com/resourcepack/stormilla/gallery) - v2.6.2 (out of date)
 - [Digs' Simple Pack](https://modrinth.com/resourcepack/digs-simple-pack/gallery) - 1.20
+- [Better Fire](https://cdn.modrinth.com/data/z4qGyu7p/versions/6tf1IVG8/Better%2BFire%2B1.19.4.zip) - 1.19.4 (out of date)
+- [Celesta](https://www.planetminecraft.com/texture-pack/celesta/download/file/16782237/) - v3.2 (external download - watch for Modrinth upload!)
+- [Devin's Unobtrusive Grass](https://modrinth.com/resourcepack/unobtrusive-grass) - 1.0.0

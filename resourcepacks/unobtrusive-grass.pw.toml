@@ -1,0 +1,13 @@
+name = "Devin's Unobtrusive Grass"
+filename = "unobtrusive-grass-1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YcPNBYSC/versions/8hZqrku0/unobtrusive-grass-1.0.0.zip"
+hash-format = "sha1"
+hash = "ffb26f34ef0ee30c1061246e935617b9431df89d"
+
+[update]
+[update.modrinth]
+mod-id = "YcPNBYSC"
+version = "8hZqrku0"

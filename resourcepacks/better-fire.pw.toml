@@ -1,0 +1,13 @@
+name = "Better Fire"
+filename = "Better+Fire+1.19.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4qGyu7p/versions/6tf1IVG8/Better%2BFire%2B1.19.4.zip"
+hash-format = "sha1"
+hash = "79ba40f6725d16870e290b7fba350d5e3d5a5648"
+
+[update]
+[update.modrinth]
+mod-id = "z4qGyu7p"
+version = "6tf1IVG8"
