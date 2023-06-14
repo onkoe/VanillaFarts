@@ -2,15 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = "ASSETS.md"
-hash = "8b62edcb8136de00adb9eb870a32dc186619e25272285a25860a91c9fe874c05"
+hash = "f0a1e7e72030df61acbab47dcf89bc8bc4e03a5e96ea8387a13c84e14ccf424a"
 
 [[files]]
 file = "README.md"
-hash = "afc03cb04a136edc389084133e739735666eb10249dd0171f44dc856220630a4"
+hash = "c0f889517b4df0191a7caaf964f6435eb8069dbb09e099ad004e912f22103d2c"
 
 [[files]]
 file = "WISHLIST.md"
-hash = "fb40a460e2b8c2c8ad214d13d559e7f1d89cf1353fdeaab318002c3beca9206a"
+hash = "c48ae9bf4c8a605f1293278437e04516622b38abd847bdfd29062ab0a7a1adaa"
+
+[[files]]
+file = "config/carpet/deafult_carpet.conf"
+hash = "e1baf91aa5f385ef17d78388d281b29ac59047ab222c55a7112e055a74621953"
+
+[[files]]
+file = "config/itemscroller.json"
+hash = "343042d8477d25f79c65a6e4787d15085c4d5a385902336f11066423f49ca396"
+
+[[files]]
+file = "config/minihud.json"
+hash = "ac6c71240970af2bdd7d270e267d50b3880a4209f8b04fec8dcbb6e08f8d6291"
+
+[[files]]
+file = "config/youritemsaresafe.json5"
+hash = "6c8698117a4f3185d79595d586d3b23c529576176c797c2b94556c0838aa8f7c"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -351,3 +367,7 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
 metafile = true
+
+[[files]]
+file = "vanilla-farts-banner.png"
+hash = "58b9b606ace961a98fbeda1fbc544c56af68aa04a0a075502cc5e08aa9068ad9"
