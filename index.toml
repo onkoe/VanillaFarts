@@ -29,6 +29,21 @@ file = "config/youritemsaresafe.json5"
 hash = "6c8698117a4f3185d79595d586d3b23c529576176c797c2b94556c0838aa8f7c"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -36,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1d893eb508f386beda73402cc63efb102284985f900a4fd5b92e9eb9a7c1cca2"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
@@ -66,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "23d2c83abcf601d56fa8a500660d8d512192a5a038468492037ec1025ba08b78"
 metafile = true
 
 [[files]]
@@ -239,6 +264,11 @@ hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
 hash = "ee852fa188aab229e6b3e8824ae61e7fc4fbfb9670d9d54b710f28e40a74600d"
 metafile = true
@@ -264,6 +294,11 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "6aff337052721d3ef1002097c546e6b57888c29424e54237326d6341de65ac42"
+metafile = true
+
+[[files]]
 file = "mods/serversleep.pw.toml"
 hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
 metafile = true
@@ -271,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "f6797877b28bd8d1e29c0f9e4b192c9b9470375fc3f4b151ded5469b7ca16090"
 metafile = true
 
 [[files]]
@@ -296,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
 
 [[files]]
