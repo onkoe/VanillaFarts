@@ -48,6 +48,11 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
@@ -198,6 +203,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
@@ -280,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "0d39660a8bdc8adb86c2097638266a0865d54ad5f4118594f41cd25e5d95974c"
 metafile = true
 
 [[files]]
