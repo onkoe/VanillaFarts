@@ -1,0 +1,13 @@
+name = "Dynamic Fullbright"
+filename = "dynamic-fullbright-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tF7P4IlX/versions/Pyeo7Bzi/dynamic-fullbright-1.0.1.jar"
+hash-format = "sha1"
+hash = "d680dbe16e637706b89b899b5ef60eef8c3f01d0"
+
+[update]
+[update.modrinth]
+mod-id = "tF7P4IlX"
+version = "Pyeo7Bzi"

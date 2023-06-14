@@ -1,0 +1,13 @@
+name = "Mindful Darkness"
+filename = "MindfulDarkness-v7.0.0-1.20-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/CfHWBD9n/MindfulDarkness-v7.0.0-1.20-Fabric.jar"
+hash-format = "sha1"
+hash = "24c4338097eb05e9ea89142339c8af48cb0c4934"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "CfHWBD9n"

@@ -35,6 +35,11 @@ hash = "2c4eb80ff8089ac60c3e4b87a8938b20e741b20241a9f3c2b21060c9f576dea8"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fullbright.pw.toml"
+hash = "871234f39beefe7096a67f8113af6b723e28f09b2418f8df51b1e8d501c86584"
 metafile = true
 
 [[files]]
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
@@ -135,8 +150,18 @@ hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "5e7df505f1b227045f421370409409fb6905c03d6c781132cf867f0701ff4858"
+metafile = true
+
+[[files]]
 file = "mods/minecraftclientgobrrr.pw.toml"
 hash = "132b08d3d86ac5e4866ece978f0d4f2a194455a04131b0ed3ea1eca081a789dc"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
 
 [[files]]
@@ -165,6 +190,16 @@ hash = "9270c1bfd9666d60e500c8ccbf662b0e41dbdf53a3deb902db5dcb72f5539685"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "deb4d4d8b8c54d02802970e72d1cac35dd8cb19ee2b192e6c439207a4683cf6d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -177,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "d43f7ae48849de79e3610710f46299e155a1a76752b85ceba9565f3085038545"
 metafile = true
 
 [[files]]
