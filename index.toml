@@ -208,7 +208,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
-
-[[files]]
-file = "packwiz.fish"
-hash = "cfda2ff32a84a01f08e5dfc5edb8aa40fe88f4c15ce4d47fd73e4e7baafb4466"
