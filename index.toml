@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ASSETS.md"
-hash = "f0a1e7e72030df61acbab47dcf89bc8bc4e03a5e96ea8387a13c84e14ccf424a"
-
-[[files]]
-file = "README.md"
-hash = "c0f889517b4df0191a7caaf964f6435eb8069dbb09e099ad004e912f22103d2c"
-
-[[files]]
-file = "WISHLIST.md"
-hash = "c48ae9bf4c8a605f1293278437e04516622b38abd847bdfd29062ab0a7a1adaa"
-
-[[files]]
 file = "config/carpet/deafult_carpet.conf"
 hash = "e1baf91aa5f385ef17d78388d281b29ac59047ab222c55a7112e055a74621953"
 
