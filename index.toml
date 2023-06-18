@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d893eb508f386beda73402cc63efb102284985f900a4fd5b92e9eb9a7c1cca2"
+hash = "5b089b32ba80ff2c4fcb1cf5ad04e54fe7dfb402d6e1c325f5c42e9b179cb1b0"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "2d3871eb785146824fa9e8dc368d6321933202f6c05fa8b5ab45808236b9816e"
+hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3ccd62d5f422f0aa01548983b0ddc6e516b137f630141cde0837e653808d0ae3"
+hash = "09135ad1883de904428096c46413e911b9b9206acc78687e1c15aafd2dc8662d"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "d43f7ae48849de79e3610710f46299e155a1a76752b85ceba9565f3085038545"
+hash = "b26851dc4eaf2603f4ec028b8b9061622e05c7f558866ac1167aa563608d5fa1"
 metafile = true
 
 [[files]]
@@ -400,7 +400,3 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
 metafile = true
-
-[[files]]
-file = "vanilla-farts-banner.png"
-hash = "58b9b606ace961a98fbeda1fbc544c56af68aa04a0a075502cc5e08aa9068ad9"
