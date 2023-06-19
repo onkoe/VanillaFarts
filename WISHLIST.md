@@ -21,9 +21,9 @@ Official [Masa Mods](https://modrinth.com/modpack/kosmolot-unofficial-masa-mods/
 
 - Currently waiting for other mods to be updated to 1.20.1, as there's no 1.20 Bobby release yet!
 
-[Debugify](https://github.com/isXander/Debugify/issues/258) (unplayable bug)
+[Debugify](https://github.com/isXander/Debugify/issues/258) (version override)
 
-- Currently waiting on either a 1.20.1 upgrade (which will take a while) or a 1.20 backport! Status in [this issue](https://github.com/isXander/Debugify/issues/258)!
+- Modified Minecraft version. Waiting for full pack upgrade.
 
 ## Resource Packs
 
