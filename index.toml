@@ -87,6 +87,11 @@ hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
+metafile = true
+
+[[files]]
 file = "mods/disable-compliance-notification.pw.toml"
 hash = "1282a498b61cfe92c35d004cc6747ee5c0656932cebfbfc98ca54bd917c4b70f"
 metafile = true
