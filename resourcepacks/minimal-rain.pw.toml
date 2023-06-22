@@ -1,0 +1,13 @@
+name = "Minimal Rain"
+filename = "Minimal Rain.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9aE6Ib8a/versions/zPhnNEFA/Minimal%20Rain.zip"
+hash-format = "sha1"
+hash = "3984b689becd18646fb412c1f8b40bd166ba0d7d"
+
+[update]
+[update.modrinth]
+mod-id = "9aE6Ib8a"
+version = "zPhnNEFA"

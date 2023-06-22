@@ -35,3 +35,7 @@ Change the look of textures in the game!
 - [Better Fire](https://cdn.modrinth.com/data/z4qGyu7p/versions/6tf1IVG8/Better%2BFire%2B1.19.4.zip) - 1.19.4 (out of date)
 - [Celesta](https://www.planetminecraft.com/texture-pack/celesta/download/file/16782237/) - v3.2 (external download - watch for Modrinth upload!)
 - [Devin's Unobtrusive Grass](https://modrinth.com/resourcepack/unobtrusive-grass) - 1.0.0
+- [Shield Corrections](https://modrinth.com/resourcepack/shield-corrections/gallery): lowers the shield so you can see - 1.20.1 (too new but. you know...)
+- [Minimal Rain](https://modrinth.com/resourcepack/minimal-rain/gallery): just a few drops - 1.20
+- [Bedrock Outline](https://modrinth.com/resourcepack/bedrock-border/gallery): helps to see... anything... on the nether roof - 1.1.0
+- [Bits & Tweaks](https://modrinth.com/resourcepack/bits-and-tweaks/gallery): a redstone/building pack, minus the distractions - 1.20 (beta)

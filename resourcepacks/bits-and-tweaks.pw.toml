@@ -1,0 +1,13 @@
+name = "Bits & Tweaks"
+filename = "ItsMemed's Bits & Tweaks [1.20].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5dTKM6yZ/versions/MtP23zm0/ItsMemed%27s%20Bits%20%26%20Tweaks%20%5B1.20%5D.zip"
+hash-format = "sha1"
+hash = "34afc9675af6a242233961119e820b125f8b1b0d"
+
+[update]
+[update.modrinth]
+mod-id = "5dTKM6yZ"
+version = "MtP23zm0"

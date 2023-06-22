@@ -1,0 +1,13 @@
+name = "Shield Corrections"
+filename = "Shield Corrections [Regular].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmX1HqJY/versions/mvRQHrsj/Shield%20Corrections%20%5BRegular%5D.zip"
+hash-format = "sha1"
+hash = "a6ec9a7f1655effeabb2dc8c3899e77f2d4c8626"
+
+[update]
+[update.modrinth]
+mod-id = "gmX1HqJY"
+version = "mvRQHrsj"
