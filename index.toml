@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
+hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-items-are-safe.pw.toml"
-hash = "0d39660a8bdc8adb86c2097638266a0865d54ad5f4118594f41cd25e5d95974c"
+hash = "e9fc99724fb2d5cb665005dffda212cd331e0df312b4bfea824ae3aba58c3ad5"
 metafile = true
 
 [[files]]
