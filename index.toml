@@ -10,7 +10,7 @@ hash = "e1baf91aa5f385ef17d78388d281b29ac59047ab222c55a7112e055a74621953"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "53f5c2b5b4576716909e7e26af3a4e6500c0112526bb5c9a7f07011387b499f1"
+hash = "3db7059e5f1200e01350e4ea821be6dfa3cf5ff07a6b6dc7c92a448088893e65"
 
 [[files]]
 file = "config/itemscroller.json"
@@ -42,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
@@ -227,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "5e7df505f1b227045f421370409409fb6905c03d6c781132cf867f0701ff4858"
-metafile = true
-
-[[files]]
-file = "mods/minecraftclientgobrrr.pw.toml"
-hash = "132b08d3d86ac5e4866ece978f0d4f2a194455a04131b0ed3ea1eca081a789dc"
 metafile = true
 
 [[files]]

@@ -5,6 +5,11 @@
                 "-depends": {
                     "minecraft": ""
                 }
+            },
+            "bobby": {
+                "-depends": {
+                    "minecraft": ""
+                }
             }
         }
     }

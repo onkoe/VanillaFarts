@@ -17,9 +17,9 @@ Official [Masa Mods](https://modrinth.com/modpack/kosmolot-unofficial-masa-mods/
 - The unofficial ports are bleeding-edge, but are updated more quickly than Masa's own mods.
 - Unofficial ones are also available on Modrinth! :)
 
-[Bobby](https://modrinth.com/mod/bobby) (1.19.4 < 1.20 > 1.20.1. unsupported release!)
+[Bobby](https://modrinth.com/mod/bobby) (version override)
 
-- Currently waiting for other mods to be updated to 1.20.1, as there's no 1.20 Bobby release yet!
+- Version override (using 1.20.1 on 1.20). Waiting for the rest of the pack to upgrade.
 
 [Debugify](https://github.com/isXander/Debugify/issues/258) (version override)
 
