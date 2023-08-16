@@ -4,26 +4,32 @@ You'll find some mods that we can't include yet below!
 
 ## Mods
 
-[Phosphor](https://modrinth.com/mod/phosphor): (out of date)
-
-- Lighting optimizations!
-
 [FastQuit](https://modrinth.com/mod/fastquit): (out of date)
 
 - Butter-smooth quit for single-player people!
 
-Official [Masa Mods](https://modrinth.com/modpack/kosmolot-unofficial-masa-mods/version/1.20+ksm.3) (out of date, all use Cf)
+[Distant Horizons](https://modrinth.com/mod/distanthorizons): (out of date, 1.19.4 < 1.20.1)
 
-- The unofficial ports are bleeding-edge, but are updated more quickly than Masa's own mods.
+- View distance of 256 chunks or greater using LoDs!
+- A 1.20.1 branch is [in-development](https://gitlab.com/jeseibel/minecraft-lod-mod), but it's still unstable.
+   - I had a few crashes testing my own compiled version ;) 
+- THIS LOOKS SO INCREDIBLE AHHHHHH I WANT IT SO BAD
+
+### Warnings
+
+Mods under this section have been added despite some potential problems.  
+
+Official [Masa Mods](https://modrinth.com/modpack/kosmolot-unofficial-masa-mods/version/1.20+ksm.3): (All of them use Curseforge)
+
+- The unofficial ports are bleeding-edge/"buggy", but are updated more quickly than Masa's own mods.
 - Unofficial ones are also available on Modrinth! :)
+- For now, let's use the official releases - despite Curseforge. :( 
 
-[Bobby](https://modrinth.com/mod/bobby) (version override)
+### Blacklist
 
-- Version override (using 1.20.1 on 1.20). Waiting for the rest of the pack to upgrade.
+These mods won't be added for one reason or another...
 
-[Debugify](https://github.com/isXander/Debugify/issues/258) (version override)
-
-- Modified Minecraft version. Waiting for full pack upgrade.
+- [Phosphor](https://modrinth.com/mod/phosphor): Rendered entirely obsolete by vanilla 1.20's new lighting upgrades.
 
 ## Resource Packs
 

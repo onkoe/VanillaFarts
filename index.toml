@@ -9,10 +9,6 @@ file = "config/carpet/deafult_carpet.conf"
 hash = "e1baf91aa5f385ef17d78388d281b29ac59047ab222c55a7112e055a74621953"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "3db7059e5f1200e01350e4ea821be6dfa3cf5ff07a6b6dc7c92a448088893e65"
-
-[[files]]
 file = "config/itemscroller.json"
 hash = "343042d8477d25f79c65a6e4787d15085c4d5a385902336f11066423f49ca396"
 
@@ -180,29 +176,14 @@ hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
+file = "mods/item-scroller.pw.toml"
+hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
 
 [[files]]
-file = "mods/kosmolot-unofficial-itemscroller-fabric-1.20-0.19.2+ksm.3.jar"
-hash = "6aa821a7abeef110f63cf9fb79b0243a582ce272f85197bec65170b2c8b95ea9"
-
-[[files]]
-file = "mods/kosmolot-unofficial-litematica-fabric-1.20-0.14.3+ksm.3.jar"
-hash = "01a4969f824bf013d7bd9bd05e4b4b7994ba47e5e024e9b3f1f0af9579eae7bb"
-
-[[files]]
-file = "mods/kosmolot-unofficial-malilib-fabric-1.20-0.15.4+ksm.3.jar"
-hash = "3de87cec69e1f1f4d7ff03f12035cd23ce336e4e1ff16b83cfe87c14f25ad689"
-
-[[files]]
-file = "mods/kosmolot-unofficial-minihud-fabric-1.20-0.26.2+ksm.3.jar"
-hash = "09fbf3fca30cf54362832141212b4305e14709ca376c93d6fbbef60fd6da5fce"
-
-[[files]]
-file = "mods/kosmolot-unofficial-tweakeroo-fabric-1.20-0.16.0+ksm.3.jar"
-hash = "2592c8c5f8814f669fa902594780de6d5fc7de0409d40c74d85404ccc71c89b9"
+file = "mods/journeymap.pw.toml"
+hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
+metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
@@ -215,8 +196,18 @@ hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
@@ -237,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "22a5d07a40aff12f5b74bb4827b1f687c0a3953dff98653d7e259dea2b7a3b76"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
 metafile = true
 
 [[files]]
@@ -327,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
 metafile = true
 
 [[files]]
