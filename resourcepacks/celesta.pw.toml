@@ -1,13 +1,13 @@
-name = "(1.20) Celesta 32x | A Slick PvP Pack by Reptilator"
-filename = "Celesta v3.2.zip"
+name = "(1.20.1) Celesta 32x | Slick PvP Pack by Reptilator"
+filename = "Celesta v3.3.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e0f710080bc58bf17d636435702577bfdff37ede"
+hash = "69e3edc0a5ded7a50328561776be522b1f2af666"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4543446
+file-id = 4648256
 project-id = 470652
