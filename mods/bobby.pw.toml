@@ -1,13 +1,13 @@
 name = "Bobby"
-filename = "bobby-5.0.1.jar"
+filename = "bobby-5.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/Byj5ahzr/bobby-5.0.3.jar"
 hash-format = "sha1"
-hash = "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6"
+hash = "e910ff7dfa6a56ed00f62b7fb8e523f40525c9ca"
 
 [update]
 [update.modrinth]
 mod-id = "M08ruV16"
-version = "2cuVyTav"
+version = "Byj5ahzr"
