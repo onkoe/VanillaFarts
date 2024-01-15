@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "VF011-C"
-hash = "5800765ebcb87560fc1593c9a6f029a139c014ef2d0476730cc2e7d3fd6422c1"
-
-[[files]]
 file = "config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
